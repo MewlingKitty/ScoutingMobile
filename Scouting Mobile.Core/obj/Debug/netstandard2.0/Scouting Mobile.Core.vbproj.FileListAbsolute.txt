@@ -6,3 +6,10 @@ C:\Users\ncd39\source\repos\Scouting Mobile.Core\bin\Debug\netstandard2.0\Scouti
 C:\Users\ncd39\source\repos\Scouting Mobile.Core\obj\Debug\netstandard2.0\Scouting Mobile.Core.vbprojAssemblyReference.cache
 C:\Users\ncd39\source\repos\Scouting Mobile.Core\obj\Debug\netstandard2.0\Scouting Mobile.Core.dll
 C:\Users\ncd39\source\repos\Scouting Mobile.Core\obj\Debug\netstandard2.0\Scouting Mobile.Core.pdb
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting Mobile.Core\bin\Debug\netstandard2.0\Scouting Mobile.Core.deps.json
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting Mobile.Core\bin\Debug\netstandard2.0\Scouting Mobile.Core.dll
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting Mobile.Core\bin\Debug\netstandard2.0\Scouting Mobile.Core.pdb
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting Mobile.Core\obj\Debug\netstandard2.0\Scouting Mobile.Core.AssemblyInfoInputs.cache
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting Mobile.Core\obj\Debug\netstandard2.0\Scouting Mobile.Core.AssemblyInfo.vb
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting Mobile.Core\obj\Debug\netstandard2.0\Scouting Mobile.Core.dll
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting Mobile.Core\obj\Debug\netstandard2.0\Scouting Mobile.Core.pdb

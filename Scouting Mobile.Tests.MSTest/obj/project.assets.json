@@ -24869,11 +24869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Tests.MSTest\\Scouting Mobile.Tests.MSTest.vbproj",
+      "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Tests.MSTest\\Scouting Mobile.Tests.MSTest.vbproj",
       "projectName": "Scouting Mobile.Tests.MSTest",
-      "projectPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Tests.MSTest\\Scouting Mobile.Tests.MSTest.vbproj",
+      "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Tests.MSTest\\Scouting Mobile.Tests.MSTest.vbproj",
       "packagesPath": "C:\\Users\\ncd39\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Tests.MSTest\\obj\\",
+      "outputPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Tests.MSTest\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -24893,8 +24893,8 @@
       "frameworks": {
         "uap10.0.17763": {
           "projectReferences": {
-            "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile\\Scouting Mobile.vbproj": {
-              "projectPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile\\Scouting Mobile.vbproj"
+            "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile\\Scouting Mobile.vbproj": {
+              "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile\\Scouting Mobile.vbproj"
             }
           }
         }

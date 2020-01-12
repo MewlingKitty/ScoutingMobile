@@ -1,1 +1,1 @@
-C:\Users\ncd39\source\repos\Scouting Mobile\Scouting Mobile.vbproj;x86
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting Mobile\Scouting Mobile.vbproj;x86

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile\\Scouting Mobile.vbproj": {}
+    "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile\\Scouting Mobile.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj": {
+    "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj",
+        "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj",
         "projectName": "Scouting Mobile.Core",
-        "projectPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj",
+        "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj",
         "packagesPath": "C:\\Users\\ncd39\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\obj\\",
+        "outputPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ncd39\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,14 +71,14 @@
         }
       }
     },
-    "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile\\Scouting Mobile.vbproj": {
+    "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile\\Scouting Mobile.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile\\Scouting Mobile.vbproj",
+        "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile\\Scouting Mobile.vbproj",
         "projectName": "Scouting Mobile",
-        "projectPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile\\Scouting Mobile.vbproj",
+        "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile\\Scouting Mobile.vbproj",
         "packagesPath": "C:\\Users\\ncd39\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile\\obj\\",
+        "outputPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -98,8 +98,8 @@
         "frameworks": {
           "uap10.0.17763": {
             "projectReferences": {
-              "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj": {
-                "projectPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj"
+              "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj": {
+                "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj"
               }
             }
           }

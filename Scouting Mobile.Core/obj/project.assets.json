@@ -5575,11 +5575,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj",
+      "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj",
       "projectName": "Scouting Mobile.Core",
-      "projectPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj",
+      "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\Scouting Mobile.Core.vbproj",
       "packagesPath": "C:\\Users\\ncd39\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ncd39\\source\\repos\\Scouting Mobile.Core\\obj\\",
+      "outputPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting Mobile.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ncd39\\AppData\\Roaming\\NuGet\\NuGet.Config",
