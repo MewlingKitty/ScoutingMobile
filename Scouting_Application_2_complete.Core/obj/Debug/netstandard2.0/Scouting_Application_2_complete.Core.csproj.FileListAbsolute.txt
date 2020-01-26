@@ -1,0 +1,8 @@
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Core\obj\Debug\netstandard2.0\Scouting_Application_2_complete.Core.AssemblyInfoInputs.cache
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Core\obj\Debug\netstandard2.0\Scouting_Application_2_complete.Core.AssemblyInfo.cs
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Core\bin\Debug\netstandard2.0\Scouting_Application_2_complete.Core.deps.json
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Core\bin\Debug\netstandard2.0\Scouting_Application_2_complete.Core.dll
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Core\bin\Debug\netstandard2.0\Scouting_Application_2_complete.Core.pdb
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Core\obj\Debug\netstandard2.0\Scouting_Application_2_complete.Core.csprojAssemblyReference.cache
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Core\obj\Debug\netstandard2.0\Scouting_Application_2_complete.Core.dll
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Core\obj\Debug\netstandard2.0\Scouting_Application_2_complete.Core.pdb

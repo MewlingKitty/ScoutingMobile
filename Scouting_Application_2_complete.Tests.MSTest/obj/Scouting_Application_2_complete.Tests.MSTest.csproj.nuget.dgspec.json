@@ -1,0 +1,245 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Tests.MSTest\\Scouting_Application_2_complete.Tests.MSTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Core\\Scouting_Application_2_complete.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Core\\Scouting_Application_2_complete.Core.csproj",
+        "projectName": "Scouting_Application_2_complete.Core",
+        "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Core\\Scouting_Application_2_complete.Core.csproj",
+        "packagesPath": "C:\\Users\\ncd39\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ncd39\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Tests.MSTest\\Scouting_Application_2_complete.Tests.MSTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Tests.MSTest\\Scouting_Application_2_complete.Tests.MSTest.csproj",
+        "projectName": "Scouting_Application_2_complete.Tests.MSTest",
+        "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Tests.MSTest\\Scouting_Application_2_complete.Tests.MSTest.csproj",
+        "packagesPath": "C:\\Users\\ncd39\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Tests.MSTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ncd39\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete\\Scouting_Application_2_complete.csproj": {
+                "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete\\Scouting_Application_2_complete.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            },
+            "Microsoft.UI.Xaml": {
+              "target": "Package",
+              "version": "[2.2.190917002, )"
+            },
+            "Microsoft.Xaml.Behaviors.Uwp.Managed": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete\\Scouting_Application_2_complete.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete\\Scouting_Application_2_complete.csproj",
+        "projectName": "Scouting_Application_2_complete",
+        "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete\\Scouting_Application_2_complete.csproj",
+        "packagesPath": "C:\\Users\\ncd39\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft SDKs\\UWPNuGetPackages\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ncd39\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "uap10.0.17763"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.17763": {
+            "projectReferences": {
+              "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Core\\Scouting_Application_2_complete.Core.csproj": {
+                "projectPath": "C:\\Users\\ncd39\\source\\repos\\ScoutingMobile\\Scouting_Application_2_complete.Core\\Scouting_Application_2_complete.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "dependencies": {
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.9, )"
+            },
+            "Microsoft.UI.Xaml": {
+              "target": "Package",
+              "version": "[2.2.190917002, )"
+            },
+            "Microsoft.Xaml.Behaviors.Uwp.Managed": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Win2D.uwp": {
+              "target": "Package",
+              "version": "[1.23.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-arm64-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

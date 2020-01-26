@@ -1,0 +1,2 @@
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete.Tests.MSTest\Scouting_Application_2_complete.Tests.MSTest.csproj;x86
+C:\Users\ncd39\source\repos\Scouting_Application_2_complete\Scouting_Application_2_complete.csproj;x86
