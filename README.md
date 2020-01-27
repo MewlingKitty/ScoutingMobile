@@ -1,2 +1,2 @@
 # ScoutingMobile
- An "all-in-one" solution to Scouting and Strategy in FRC, written in Virtual Basic.
+ An "all-in-one" solution to Scouting, Scoring and Strategy in FRC, written in C#
