@@ -15,15 +15,15 @@
     <Grid x:ConnectionId='2' x:Name="ContentArea" Margin="{StaticResource MediumLeftRightMargin}">
         <Grid
             Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}">
-            <Button x:ConnectionId='3' Content="Start&#xD;&#xA;" Margin="0,555,0,0" VerticalAlignment="Top" Height="60" Width="313"                      HorizontalAlignment="Center"/>
+            <Button x:ConnectionId='3' Content="Continue&#xD;&#xA;" Margin="0,555,0,0" VerticalAlignment="Top" Height="60" Width="313"                      HorizontalAlignment="Center"/>
             <TextBlock HorizontalAlignment="Left" Margin="62,110,0,0" Text="Enter Your Name Here:" TextWrapping="Wrap" VerticalAlignment="Top" Height="36" Width="341" Style="{StaticResource PageTitleStyle}"/>
             <TextBlock x:ConnectionId='4' HorizontalAlignment="Left" Margin="62,203,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="30" Width="262"                                               Style="{StaticResource PageTitleStyle}" RenderTransformOrigin="0.439,1.267"><Run Text="Event Code"/><LineBreak/><Run/><LineBreak/><Run/><LineBreak/><Run/></TextBlock>
             <TextBox x:ConnectionId='5' HorizontalAlignment="Left" Margin="62,240,0,0" Text="&#xA;" TextWrapping="Wrap" VerticalAlignment="Top" Width="70"                                   Height="38"/>
-            <TextBlock x:ConnectionId='6' HorizontalAlignment="Left" Margin="222,10,0,0" Text="Scouting - Infinite Recharge" TextWrapping="Wrap" VerticalAlignment="Top" Height="67" Width="575"                                                 Style="{StaticResource HeaderTextBlockStyle}"/>
+            <TextBlock x:ConnectionId='6' HorizontalAlignment="Left" Margin="328,10,0,0" Text="Infinite Recharge" TextWrapping="Wrap" VerticalAlignment="Top" Height="67" Width="330"                                                 Style="{StaticResource HeaderTextBlockStyle}"/>
             <DatePicker Margin="62,310,0,0" VerticalAlignment="Top"/>
             <ToggleSwitch x:ConnectionId='7' Header="Inverse Field Picture?" Margin="62,365,0,0" VerticalAlignment="Top"                                Height="65" Width="173"/>
-            <Image HorizontalAlignment="Left" Height="69" Margin="10,8,0,0" VerticalAlignment="Top" Width="63" Source="/Assets/Square150x150Logo.png"/>
-            <Image HorizontalAlignment="Left" Height="231" Margin="441,157,0,0" VerticalAlignment="Top" Width="502" Source="/Assets/Arena.png"/>
+            <Image HorizontalAlignment="Left" Height="69" Margin="234,9,0,0" VerticalAlignment="Top" Width="63" Source="/Assets/Square150x150Logo.png"/>
+            <Image HorizontalAlignment="Left" Height="210" Margin="426,157,0,0" VerticalAlignment="Top" Width="502" Source="/Assets/Arena.png" Style="{StaticResource ImageStyle1}"/>
             <ComboBox Margin="62,147,0,0" Width="236"/>
             <TextBlock x:ConnectionId='8' HorizontalAlignment="Left" Margin="62,435,0,0" Text="You're Scouting For Red 2*" TextWrapping="Wrap" VerticalAlignment="Top" Style="{StaticResource SubtitleTextBlockStyle}" Height="40" Width="470"                                                />
             <TextBlock x:ConnectionId='9' HorizontalAlignment="Left" Margin="62,467,0,0" Text="*This will just be changed per tablet" TextWrapping="Wrap" VerticalAlignment="Top" Height="24" Width="232"                                                 Style="{StaticResource BodyTextBlockStyle}"/>

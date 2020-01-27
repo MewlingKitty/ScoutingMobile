@@ -9,20 +9,20 @@
     <Page.Resources>
         <DataTemplate x:Key="BigHeaderTemplate">
             <RelativePanel>
-                <TextBlock x:Uid="StratPicHeader" Margin="{StaticResource SmallLeftMargin}" MaxLines="1" TextTrimming="CharacterEllipsis" RelativePanel.LeftOf="toolbar" RelativePanel.AlignLeftWithPanel="True" />
+                <TextBlock x:Uid="StrategyHeader" Margin="{StaticResource SmallLeftMargin}" MaxLines="1" TextTrimming="CharacterEllipsis" RelativePanel.LeftOf="toolbar" RelativePanel.AlignLeftWithPanel="True" />
                 <InkToolbar x:ConnectionId='4'
                     x:Name="toolbar"
                     Background="Transparent"
                                                
                     RelativePanel.AlignHorizontalCenterWithPanel="True">
                     <InkToolbarCustomToggleButton
-                        x:Uid="StratPic_TouchInkingButton"
+                        x:Uid="Strategy_TouchInkingButton"
                         Background="Transparent"
                         IsChecked="{Binding Content.TouchInkingButtonIsChecked, ElementName=shellFrame, Mode=TwoWay}">
                         <FontIcon FontFamily="{ThemeResource SymbolThemeFontFamily}" Glyph="&#xED5F;" />
                     </InkToolbarCustomToggleButton>
                     <InkToolbarCustomToggleButton
-                        x:Uid="StratPic_MouseInkingButton"
+                        x:Uid="Strategy_MouseInkingButton"
                         Background="Transparent"
                         IsChecked="{Binding Content.MouseInkingButtonIsChecked, ElementName=shellFrame, Mode=TwoWay}">
                         <FontIcon FontFamily="{ThemeResource SymbolThemeFontFamily}" Glyph="&#xE962;" />
@@ -35,13 +35,13 @@
                     Style="{StaticResource InkCommandBarStyle}">
                     <CommandBar.PrimaryCommands>
                         <AppBarButton x:ConnectionId='6'
-                            x:Uid="StratPic_ZoomInButton"
+                            x:Uid="Strategy_ZoomInButton"
                             BorderBrush="Transparent"
                             BorderThickness="0,0,0,0"
                                                 
                             Icon="ZoomIn" />
                         <AppBarButton x:ConnectionId='7'
-                            x:Uid="StratPic_ZoomOutButton"
+                            x:Uid="Strategy_ZoomOutButton"
                             BorderBrush="Transparent"
                             BorderThickness="0,0,0,0"
                                                  
@@ -49,13 +49,13 @@
                     </CommandBar.PrimaryCommands>
                     <CommandBar.SecondaryCommands>
                         <AppBarButton x:ConnectionId='8'
-                            x:Uid="StratPic_OriginalSizeButton"
+                            x:Uid="Strategy_OriginalSizeButton"
                             BorderBrush="Transparent"
                             BorderThickness="0,0,0,0"
                                                    
                             Icon="FullScreen" />
                         <AppBarButton x:ConnectionId='9'
-                            x:Uid="StratPic_FitToScreenButton"
+                            x:Uid="Strategy_FitToScreenButton"
                             BorderBrush="Transparent"
                             BorderThickness="0,0,0,0"
                                                      >
@@ -63,14 +63,14 @@
                         </AppBarButton>
                         <AppBarSeparator />
                         <AppBarButton x:ConnectionId='10'
-                            x:Uid="StratPic_OpenImageButton"
+                            x:Uid="Strategy_OpenImageButton"
                             BorderBrush="Transparent"
                             BorderThickness="0,0,0,0"
                                                    >
                             <FontIcon FontFamily="{ThemeResource SymbolThemeFontFamily}" Glyph="&#xEB9F;" />
                         </AppBarButton>
                         <AppBarButton x:ConnectionId='11'
-                            x:Uid="StratPic_SaveImageButton"
+                            x:Uid="Strategy_SaveImageButton"
                             BorderBrush="Transparent"
                             BorderThickness="0,0,0,0"
                                                    
@@ -78,7 +78,7 @@
                             IsEnabled="{Binding Content.SaveImageButtonIsEnabled, ElementName=shellFrame, Mode=OneWay}" />
                         <AppBarSeparator />
                         <AppBarButton x:ConnectionId='12'
-                            x:Uid="StratPic_ClearAllButton"
+                            x:Uid="Strategy_ClearAllButton"
                             BorderBrush="Transparent"
                             BorderThickness="0,0,0,0"
                                                   
@@ -91,13 +91,13 @@
         <DataTemplate x:Key="SmallHeaderTemplate">
             <InkToolbar x:ConnectionId='2' HorizontalAlignment="Center"                            >
                 <InkToolbarCustomToggleButton
-                    x:Uid="StratPic_TouchInkingButton"
+                    x:Uid="Strategy_TouchInkingButton"
                     Background="Transparent"
                     IsChecked="{Binding Content.TouchInkingButtonIsChecked, ElementName=shellFrame, Mode=TwoWay}">
                     <FontIcon FontFamily="{ThemeResource SymbolThemeFontFamily}" Glyph="&#xED5F;" />
                 </InkToolbarCustomToggleButton>
                 <InkToolbarCustomToggleButton
-                    x:Uid="StratPic_MouseInkingButton"
+                    x:Uid="Strategy_MouseInkingButton"
                     Background="Transparent"
                     IsChecked="{Binding Content.MouseInkingButtonIsChecked, ElementName=shellFrame, Mode=TwoWay}">
                     <FontIcon FontFamily="{ThemeResource SymbolThemeFontFamily}" Glyph="&#xE962;" />
@@ -131,35 +131,35 @@
             ScrollViewer.HorizontalScrollBarVisibility="Auto"
             Background="{ThemeResource SystemControlPageBackgroundChromeLowBrush}"
             ZoomMode="Enabled">
-                <Grid Background="{StaticResource InkCanvasBackground}"
+            <Grid Background="{StaticResource InkCanvasBackground}"
                         Width="{Binding ElementName=inkCanvas, Path=Width}"
-                        Height="{Binding ElementName=inkCanvas, Path=Height}"> 
-                    <Image x:ConnectionId='26' x:Name="image" Stretch="None" />                       
-                    <InkCanvas x:ConnectionId='27' x:Name="inkCanvas"
+                        Height="{Binding ElementName=inkCanvas, Path=Height}">
+                <Image x:ConnectionId='26' x:Name="image" Stretch="None" />
+                <InkCanvas x:ConnectionId='27' x:Name="inkCanvas"
                             HorizontalAlignment="Stretch"
                             VerticalAlignment="Stretch" />
             </Grid>
-        </ScrollViewer>        
+        </ScrollViewer>
         <CommandBar x:ConnectionId='18'
             x:Name="bottomCommandBar"
             Grid.Row="1"
             Style="{StaticResource InkCommandBarStyle}">
             <CommandBar.PrimaryCommands>
-                <AppBarButton x:ConnectionId='19' x:Uid="StratPic_ZoomInButton" Icon="ZoomIn"                      BorderBrush="Transparent" BorderThickness="0,0,0,0" />
-                <AppBarButton x:ConnectionId='20' x:Uid="StratPic_ZoomOutButton" Icon="ZoomOut"                       BorderBrush="Transparent" BorderThickness="0,0,0,0" />
+                <AppBarButton x:ConnectionId='19' x:Uid="Strategy_ZoomInButton" Icon="ZoomIn"                      BorderBrush="Transparent" BorderThickness="0,0,0,0" />
+                <AppBarButton x:ConnectionId='20' x:Uid="Strategy_ZoomOutButton" Icon="ZoomOut"                       BorderBrush="Transparent" BorderThickness="0,0,0,0" />
             </CommandBar.PrimaryCommands>
             <CommandBar.SecondaryCommands>
-                <AppBarButton x:ConnectionId='21' x:Uid="StratPic_OriginalSizeButton" Icon="FullScreen"                         BorderBrush="Transparent" BorderThickness="0,0,0,0" />
-                <AppBarButton x:ConnectionId='22' x:Uid="StratPic_FitToScreenButton"                           BorderBrush="Transparent" BorderThickness="0,0,0,0">
+                <AppBarButton x:ConnectionId='21' x:Uid="Strategy_OriginalSizeButton" Icon="FullScreen"                         BorderBrush="Transparent" BorderThickness="0,0,0,0" />
+                <AppBarButton x:ConnectionId='22' x:Uid="Strategy_FitToScreenButton"                           BorderBrush="Transparent" BorderThickness="0,0,0,0">
                     <FontIcon FontFamily="{ThemeResource SymbolThemeFontFamily}" Glyph="&#xE73F;" />
                 </AppBarButton>
                 <AppBarSeparator/>
-                <AppBarButton x:ConnectionId='23' x:Uid="StratPic_OpenImageButton"                         BorderBrush="Transparent" BorderThickness="0,0,0,0">
+                <AppBarButton x:ConnectionId='23' x:Uid="Strategy_OpenImageButton"                         BorderBrush="Transparent" BorderThickness="0,0,0,0">
                     <FontIcon FontFamily="{ThemeResource SymbolThemeFontFamily}" Glyph="&#xEB9F;" />
                 </AppBarButton>
-                <AppBarButton x:ConnectionId='24' x:Uid="StratPic_SaveImageButton" Icon="Save"                                                                                    BorderBrush="Transparent" BorderThickness="0,0,0,0" />
+                <AppBarButton x:ConnectionId='24' x:Uid="Strategy_SaveImageButton" Icon="Save"                                                                                    BorderBrush="Transparent" BorderThickness="0,0,0,0" />
                 <AppBarSeparator/>
-                <AppBarButton x:ConnectionId='25' x:Uid="StratPic_ClearAllButton" Icon="Delete"                                                                                  BorderBrush="Transparent" BorderThickness="0,0,0,0" />
+                <AppBarButton x:ConnectionId='25' x:Uid="Strategy_ClearAllButton" Icon="Delete"                                                                                  BorderBrush="Transparent" BorderThickness="0,0,0,0" />
             </CommandBar.SecondaryCommands>
         </CommandBar>
     </Grid>

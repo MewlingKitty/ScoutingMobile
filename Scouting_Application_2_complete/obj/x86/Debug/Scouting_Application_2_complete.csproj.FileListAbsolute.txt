@@ -102,9 +102,6 @@ C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\SettingsPage.xbf
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\ShellPage.xbf
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\StratPicPage.xbf
-C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Scouting_Application_2_complete.xr.xml
-C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Scouting_Application_2_complete.exe
-C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Scouting_Application_2_complete.pdb
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\resources.pri
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\AppxManifest.xml
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Core\AppxManifest.xml
@@ -161,8 +158,6 @@ C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Scouting_Application_2_complete.csproj.CopyComplete
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Microsoft.Xaml.Interactions.pri.xml
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Microsoft.Xaml.Interactivity.pri.xml
-C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Scouting_Application_2_complete.exe
-C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Scouting_Application_2_complete.pdb
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\ResourceHandlingTask.state
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\priconfig.xml
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\priconfig.xml.intermediate
@@ -182,3 +177,24 @@ C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\ProjectArchitectures.txt
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_636622029260000000.json
 C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_636885526160000000.json
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\Scoring.g.i.cs
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\Scoring.g.cs
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\Scoring.xaml
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\Scoring.xbf
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\Scoring.xbf
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Core\Scouting Mobile.exe
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Scouting_Application_2_complete.xr.xml
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Scouting_Application_2_complete.exe
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Scouting_Application_2_complete.pdb
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Scouting_Application_2_complete.exe
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Scouting_Application_2_complete.pdb
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\ScoutingConfirmation.xbf
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\Autonomous.xbf
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\ScoutingConfirmation.g.i.cs
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\ScoutingConfirmation.g.cs
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\Autonomous.g.i.cs
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\Autonomous.g.cs
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\ScoutingConfirmation.xaml
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\Autonomous.xaml
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\ScoutingConfirmation.xbf
+C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\obj\x86\Debug\Views\Autonomous.xbf

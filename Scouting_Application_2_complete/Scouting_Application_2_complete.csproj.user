@@ -3,4 +3,14 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
     <UseSimulator>false</UseSimulator>
   </PropertyGroup>
+  <PropertyGroup>
+    <Source>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png</Source>
+    <SmallTileSource>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png</SmallTileSource>
+    <MediumTileSource>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png</MediumTileSource>
+    <WideTileSource>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png</WideTileSource>
+    <LargeTileSource>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png</LargeTileSource>
+    <AppIconSource>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png</AppIconSource>
+    <SplashScreenSource>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png</PackageLogoSource>
+  </PropertyGroup>
 </Project>

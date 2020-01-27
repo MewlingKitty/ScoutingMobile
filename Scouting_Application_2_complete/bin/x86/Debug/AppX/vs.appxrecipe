@@ -19,7 +19,7 @@
     <DeployOptionalPackages>false</DeployOptionalPackages>
     <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
     <LayoutDir>C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\AppX</LayoutDir>
-    <RegisteredManifestChecksum>00E7A1A519966719ED69839ED2A440AD163563515B13AA8DF8E3FA09506E6085</RegisteredManifestChecksum>
+    <RegisteredManifestChecksum>EB3D24BFCDE2EAC375DD9530C53D6B2BB832500B26D890E02481F877A4345784</RegisteredManifestChecksum>
     <RegisteredPackageMoniker>311FDE6D-B821-44A5-846B-8CC3A7C9F2B3_1.0.0.0_x86__f84wprqnx96t6</RegisteredPackageMoniker>
     <RegisteredUserModeAppID>311FDE6D-B821-44A5-846B-8CC3A7C9F2B3_f84wprqnx96t6!App</RegisteredUserModeAppID>
     <RegisteredPackageID>311FDE6D-B821-44A5-846B-8CC3A7C9F2B3</RegisteredPackageID>
@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-01-26T13:24:50.414</Modified>
+      <Modified>2020-01-27T22:11:18.284</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Scouting_Application_2_complete.exe">
       <PackagePath>entrypoint\Scouting_Application_2_complete.exe</PackagePath>
-      <Modified>2020-01-26T13:24:47.801</Modified>
+      <Modified>2020-01-27T22:11:16.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\.nuget\packages\microsoft.xaml.behaviors.uwp.managed\2.0.1\lib\uap10.0\Microsoft.Xaml.Interactions.dll">
       <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
@@ -74,43 +74,263 @@
       <PackagePath>Assets\Arena.png</PackagePath>
       <Modified>2020-01-26T12:31:14.855</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\image-3-1024x1024.png">
-      <PackagePath>Assets\image-3-1024x1024.png</PackagePath>
-      <Modified>2020-01-25T18:53:05.904</Modified>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Infinite_Recharge_Logo.png">
+      <PackagePath>Assets\Infinite_Recharge_Logo.png</PackagePath>
+      <Modified>2020-01-26T13:53:01.758</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\LargeTile.scale-100.png">
+      <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:55.794</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\LargeTile.scale-125.png">
+      <PackagePath>Assets\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:55.899</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\LargeTile.scale-150.png">
+      <PackagePath>Assets\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:56.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\LargeTile.scale-200.png">
+      <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:56.221</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\LargeTile.scale-400.png">
+      <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:56.842</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SmallTile.scale-100.png">
+      <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:54.642</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SmallTile.scale-125.png">
+      <PackagePath>Assets\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:54.682</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SmallTile.scale-150.png">
+      <PackagePath>Assets\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:54.724</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SmallTile.scale-200.png">
+      <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:54.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SmallTile.scale-400.png">
+      <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:54.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:58.078</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:58.320</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:59.975</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:54.886</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:54.933</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:54.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:55.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.631</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.822</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-lightunplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.371</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.448</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.484</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:56.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:56.911</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:56.947</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.077</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.115</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.317</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:57.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:51:00.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\StoreLogo.scale-125.png">
+      <PackagePath>Assets\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:51:00.239</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\StoreLogo.scale-150.png">
+      <PackagePath>Assets\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:51:00.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\StoreLogo.scale-200.png">
+      <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:51:00.333</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\StoreLogo.scale-400.png">
+      <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:51:00.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:55.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:55.298</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:55.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-01-26T22:50:55.722</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
-      <Modified>2020-01-16T23:11:13.458</Modified>
+      <Modified>2020-01-26T22:36:36.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-01-16T23:11:13.458</Modified>
+      <Modified>2020-01-26T22:50:58.696</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-01-16T23:11:13.458</Modified>
+      <Modified>2020-01-26T22:50:55.045</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-01-16T23:11:13.458</Modified>
+      <Modified>2020-01-26T22:50:56.985</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-01-16T23:11:13.458</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\StoreLogo.png">
-      <PackagePath>Assets\StoreLogo.png</PackagePath>
-      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-01-16T23:11:13.458</Modified>
+      <Modified>2020-01-26T22:50:57.411</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2020-01-16T23:11:13.458</Modified>
+      <Modified>2020-01-26T22:50:55.455</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\Properties\Default.rd.xml">
       <PackagePath>Properties\Default.rd.xml</PackagePath>
@@ -118,55 +338,67 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Scouting_Application_2_complete.xr.xml">
       <PackagePath>Scouting_Application_2_complete.xr.xml</PackagePath>
-      <Modified>2020-01-26T13:19:26.611</Modified>
+      <Modified>2020-01-27T22:11:16.425</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Microsoft.UI.Xaml\DensityStyles\Compact.xbf">
       <PackagePath>Microsoft.UI.Xaml\DensityStyles\Compact.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.017</Modified>
+      <Modified>2020-01-27T22:11:16.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.043</Modified>
+      <Modified>2020-01-27T22:11:16.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Styles\CommandBar.xbf">
       <PackagePath>Styles\CommandBar.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.027</Modified>
+      <Modified>2020-01-27T22:11:16.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Styles\Page.xbf">
       <PackagePath>Styles\Page.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.030</Modified>
+      <Modified>2020-01-27T22:11:16.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Styles\_Colors.xbf">
       <PackagePath>Styles\_Colors.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.033</Modified>
+      <Modified>2020-01-27T22:11:16.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Styles\_FontSizes.xbf">
       <PackagePath>Styles\_FontSizes.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.035</Modified>
+      <Modified>2020-01-27T22:11:16.479</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Styles\_Thickness.xbf">
       <PackagePath>Styles\_Thickness.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.037</Modified>
+      <Modified>2020-01-27T22:11:16.480</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Styles\TextBlock.xbf">
       <PackagePath>Styles\TextBlock.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.040</Modified>
+      <Modified>2020-01-27T22:11:16.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\ScoutingConfirmation.xbf">
+      <PackagePath>Views\ScoutingConfirmation.xbf</PackagePath>
+      <Modified>2020-01-27T22:11:16.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\Autonomous.xbf">
+      <PackagePath>Views\Autonomous.xbf</PackagePath>
+      <Modified>2020-01-27T22:11:16.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\Scoring.xbf">
+      <PackagePath>Views\Scoring.xbf</PackagePath>
+      <Modified>2020-01-27T22:11:16.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\ScoutingPage.xbf">
       <PackagePath>Views\ScoutingPage.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.045</Modified>
+      <Modified>2020-01-27T22:11:16.481</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\SettingsPage.xbf">
       <PackagePath>Views\SettingsPage.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.048</Modified>
+      <Modified>2020-01-27T22:11:16.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\ShellPage.xbf">
       <PackagePath>Views\ShellPage.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.050</Modified>
+      <Modified>2020-01-27T22:11:16.482</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Views\StratPicPage.xbf">
       <PackagePath>Views\StratPicPage.xbf</PackagePath>
-      <Modified>2020-01-26T13:24:47.017</Modified>
+      <Modified>2020-01-27T22:11:16.478</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.18362.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -182,11 +414,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2020-01-26T13:08:03.051</Modified>
+      <Modified>2020-01-27T22:11:17.377</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\ncd39\source\repos\ScoutingMobile\Scouting_Application_2_complete\bin\x86\Debug\Core\Scouting_Application_2_complete.exe">
       <PackagePath>Scouting_Application_2_complete.exe</PackagePath>
-      <Modified>2020-01-26T13:24:50.371</Modified>
+      <Modified>2020-01-27T22:11:18.275</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -42,9 +42,10 @@
     </RootType>
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.ThemeResourceExtension" />
     <RootType FullName="Windows.UI.Xaml.Controls.Page">
+      <RootProperty Name="Background" />
+      <RootProperty Name="Content" />
       <RootProperty Name="Resources" />
       <RootProperty Name="Style" />
-      <RootProperty Name="Content" />
       <RootEvent Name="Loaded" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Media.SolidColorBrush">
@@ -72,18 +73,17 @@
     <RootType FullName="Microsoft.Xaml.DirectUI.ProxyTypes.StaticResourceExtension">
       <RootProperty Name="ResourceKey" />
     </RootType>
-    <RootType FullName="Windows.UI.Xaml.Controls.Image">
-      <RootProperty Name="HorizontalAlignment" />
-      <RootProperty Name="Height" />
-      <RootProperty Name="Margin" />
-      <RootProperty Name="VerticalAlignment" />
-      <RootProperty Name="Width" />
-      <RootProperty Name="Source" />
-      <RootProperty Name="Stretch" />
+    <RootType FullName="Windows.UI.Xaml.Controls.ContentDialog">
+      <RootProperty Name="Title" />
+      <RootProperty Name="PrimaryButtonText" />
+      <RootProperty Name="SecondaryButtonText" />
+      <RootEvent Name="PrimaryButtonClick" />
+      <RootEvent Name="SecondaryButtonClick" />
     </RootType>
+    <RootType FullName="Scouting_Application_2_complete.Views.Autonomous" />
     <RootType FullName="Windows.UI.Xaml.Controls.Grid">
-      <RootProperty Name="Margin" />
       <RootProperty Name="Children" />
+      <RootProperty Name="Margin" />
       <RootProperty Name="Background" />
       <RootProperty Name="RowDefinitions" />
       <RootProperty Name="Width" />
@@ -100,6 +100,17 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootEvent Name="Click" />
     </RootType>
+    <RootType FullName="Windows.UI.Xaml.Controls.Image">
+      <RootProperty Name="HorizontalAlignment" />
+      <RootProperty Name="Height" />
+      <RootProperty Name="Margin" />
+      <RootProperty Name="VerticalAlignment" />
+      <RootProperty Name="Width" />
+      <RootProperty Name="Source" />
+      <RootProperty Name="Style" />
+      <RootProperty Name="Stretch" />
+    </RootType>
+    <RootType FullName="Scouting_Application_2_complete.Views.BlankPage1" />
     <RootType FullName="Windows.UI.Xaml.Controls.TextBox">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="Margin" />
@@ -108,6 +119,7 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Width" />
       <RootProperty Name="Height" />
+      <RootProperty Name="RenderTransformOrigin" />
       <RootEvent Name="TextChanged" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.DatePicker">
@@ -130,6 +142,7 @@
       <RootProperty Name="Text" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Documents.LineBreak" />
+    <RootType FullName="Scouting_Application_2_complete.Views.Scoring" />
     <RootType FullName="Scouting_Application_2_complete.Views.ScoutingPage" />
     <RootType FullName="Scouting_Application_2_complete.Helpers.EnumToBooleanConverter">
       <RootProperty Name="EnumType" />
