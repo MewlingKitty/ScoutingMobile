@@ -30,7 +30,7 @@ namespace Scouting_Application_2_complete.Views
 
         private void Button_Click(object sender, Windows.UI.Xaml.RoutedEventArgs e)
         {
-
+            
         }
 
         private void TextBlock_SelectionChanged(object sender, Windows.UI.Xaml.RoutedEventArgs e)
@@ -50,7 +50,8 @@ namespace Scouting_Application_2_complete.Views
 
         private void DropDownButton_Click(object sender, Windows.UI.Xaml.RoutedEventArgs e)
         {
-                    }
+
+        }
 
         private void ToggleSwitch_Toggled(object sender, Windows.UI.Xaml.RoutedEventArgs e)
         {

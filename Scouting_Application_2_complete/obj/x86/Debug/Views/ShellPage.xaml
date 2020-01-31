@@ -29,7 +29,7 @@
             -->
             <winui:NavigationViewItem x:Uid="Shell_Scouting" Icon="Zoom" helpers:NavHelper.NavigateTo="views:ScoutingPage" />
             <winui:NavigationViewItem x:Uid="Shell_StratPic" Icon="Edit" helpers:NavHelper.NavigateTo="views:StratPicPage" />
-            <winui:NavigationViewItem x:Uid="Shell_Scoring" Icon="Send" helpers:NavHelper.NavigateTo="views:Scoring" />
+            <winui:NavigationViewItem x:Uid="Shell_Scoring" Icon="Send" helpers:NavHelper.NavigateTo="views:Scoring" Content="&#xD;&#xA;Scoring&#xD;&#xA;" />
         </winui:NavigationView.MenuItems>
         <i:Interaction.Behaviors>
             <behaviors:NavigationViewHeaderBehavior x:ConnectionId='3'

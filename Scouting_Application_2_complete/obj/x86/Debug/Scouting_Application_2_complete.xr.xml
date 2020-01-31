@@ -97,6 +97,7 @@
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Height" />
       <RootProperty Name="Width" />
+      <RootProperty Name="RenderTransformOrigin" />
       <RootProperty Name="HorizontalAlignment" />
       <RootEvent Name="Click" />
     </RootType>
@@ -184,6 +185,7 @@
     </RootType>
     <RootType FullName="Microsoft.UI.Xaml.Controls.NavigationViewItem">
       <RootProperty Name="Icon" />
+      <RootProperty Name="Content" />
     </RootType>
     <RootType FullName="Scouting_Application_2_complete.Helpers.NavHelper">
       <RootMethod Name="GetNavigateTo" />

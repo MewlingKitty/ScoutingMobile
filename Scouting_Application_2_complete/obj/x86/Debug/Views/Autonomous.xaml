@@ -10,9 +10,9 @@
     Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
 
     <Grid>
-        <Button x:ConnectionId='2' Content="Crosses Baseline&#xD;&#xA;" Margin="128,52,0,0" VerticalAlignment="Top" Height="89" Width="218"                       />
-        <Button x:ConnectionId='3' Content="Power Cells in Upper Level&#xD;&#xA;" Margin="0,52,0,0" VerticalAlignment="Top" Height="89" Width="218"                      HorizontalAlignment="Center"/>
-        <Button x:ConnectionId='4' Content="Power Cells in Lower Level" Margin="686,52,0,0" VerticalAlignment="Top" Height="89" Width="218"                     />
+        <Button x:ConnectionId='2' Content="Crosses Baseline&#xD;&#xA;" Margin="132,66,0,0" VerticalAlignment="Top" Height="89" Width="218"                        RenderTransformOrigin="0.511,0.535"/>
+        <Button x:ConnectionId='3' Content="Power Cells in Upper Level&#xD;&#xA;" Margin="0,66,0,0" VerticalAlignment="Top" Height="89" Width="218"                      HorizontalAlignment="Center"/>
+        <Button x:ConnectionId='4' Content="Power Cells in Lower Level" Margin="664,66,0,0" VerticalAlignment="Top" Height="89" Width="218"                     />
         <Image HorizontalAlignment="Center" Height="436" Margin="0,178,0,0" VerticalAlignment="Top" Width="1003" Source="/Assets/Arena.png"/>
 
     </Grid>
